@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="FAIRWINDS icon">
+  <title>FAIRWINDS icon</title>
+  <defs>
+    <linearGradient id="fw-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1767C8"/>
+      <stop offset="1" stop-color="#0B4EA2"/>
+    </linearGradient>
+  </defs>
+  <!-- solid fill, square corners (Meta icon rules) -->
+  <rect width="512" height="512" fill="url(#fw-sky)"/>
+  <!-- mainsail: straight luff on a mast heeled to leeward, roach on the leech -->
+  <path fill="#FFFFFF" d="M268 52 L208 352 L392 352 C 398 236 352 128 268 52 Z"/>
+  <!-- hull, bow to the left -->
+  <path fill="#FFFFFF" d="M118 380 L412 380 C 410 404 398 420 376 424 L 200 424 C 162 422 134 406 118 380 Z"/>
+  <!-- signal-yellow wave, the same yellow as the VR tag -->
+  <path fill="none" stroke="#FFD21F" stroke-width="26" stroke-linecap="round" d="M92 462 C 150 436 206 488 262 462 S 372 436 420 458"/>
+</svg>
